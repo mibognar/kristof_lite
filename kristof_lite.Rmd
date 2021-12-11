@@ -1,0 +1,79 @@
+---
+title: "Kristóf híres neves chillis babja (Lite verzió)"
+author: "mibognar"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    df_print: paged
+    theme: paper
+    collapsed: false
+    smooth_scroll: true
+    code_fold: show
+---
+
+#### Ez a dokumentum tartalmazza Kristóf chillis babjának receptjét Miklós tárgyilagos tolmácsolásában.
+
+### Hozzávalók (4 főre)
+
+* 3 csésze feketebab
+* 4 paradicsom
+* 2 kaliforniai paprika
+* 2 nagy vöröshagyma
+* 2 gerezd fokhagyma
+* 1 szárzeller
+* 4 sárgarépa
+* fél bögre bulgur (búzatöret)
+* 2 dl vörösbor
+* 2kk balzsamecet
+* 1 konzerv paradicsompüré
+* olivaolaj
+* fahéj
+* só
+* 1 kocka étcsokoládé
+* fekete bors
+* babérlevél
+* őrölt chilli
+
+### fűszerek
+* oregánó
+* bazsalikom
+* petrezselyem
+
+### Eszközök
+* Egy nagy lábas - a babnak
+* Egy kis lábos - a bulgurnak
+
+---
+
+### Instrukciók
+
+1. Megfőzzük a bulgurt. Fél bögre bulgurt 1 bögre vízben egy kis sóval főzünk, amíg el nem fő az összes víz és puha nem lesz a bulgur.
+
+2. Felkockázzuk a fokhagymát, hagymát paprikát, sárgarépát, szárzellert és paradicsomot. Felaprítom a zöldfűszereket.
+
+3. Egy nagy lábasba olivaolajat öntünk és kis lángon melegítem. Ha felforrósodott, rászórjuk a sót, borsot, és a csilit és fokhagymát. Pár perc múlva rádobjuk a felkockázott hagymát is.
+
+4. Ha barnul a hagyma, rászórjuk a paprikát. Ha sülni kezd a paprika, felöntjük balzsamecettel és megkeverjük.
+
+5. Fél perc múltán a répát is rádobjuk. Itt feltekerhetjük a tűzhelyet hogy magasabb hőfokon süljön a répa.
+
+6. 2-3 perc múlva hozzáadjuk a paradicsomot is és kevergetjük, amíg fel nem forr.
+
+7. Hozzáadjuk a babérlevelet és az étcsokoládét és addig keverjük amíg fel nem olvad a csokoládé.
+
+8. Felöntjük a lábost paradicsompürével és vörösborral és kevergetjük, amíg fel nem forr.
+
+9. Ha fellforrt, hozzáadjuk a babot.
+
+10. Alacsony lángon 20 percen át hagyjuk a babot, ha túl kevés a folyadék felönthetjük vízzel.
+
+11. A megfőtt bulgurt hozzáadjuk a chillis babhoz, összekeverjük, majd 15 percen át főni hagyjuk.
+
+12. A főzés utolsó 5 percében hozzáadjuk a szárzellert és a zöldfűszereket.
+
+13. Kész.
+
+---
+
+##### További információk és hangulatfestés:
+<http://kristofkonyhaja.hu/receptek/kristof-hires-neves-csilis-babja-25>
